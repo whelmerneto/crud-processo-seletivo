@@ -49,7 +49,8 @@
                         </tbody>
                         </table>
                         {!! $clientes->links() !!}
-<!--
+
+<!-- Primeiro teste puxando dados do banco
                     <table>
                         <thead>
                             <th> Nome </th>
@@ -62,6 +63,7 @@
                             <td> {{$cliente->status}} </td>
                         </tbody>
                     </table> -->
+                    
                 </div>
             </div>
         </div>
